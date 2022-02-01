@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Iulian Dumitrascu
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning JS and React
 - 📫 You can reach me via e-mail: iuliandscu@gmail.com or linkedin: https://www.linkedin.com/in/iulian-dumitrascu/
 - Web Dev Portfolio: https://www.iulian-webdev.com
 
